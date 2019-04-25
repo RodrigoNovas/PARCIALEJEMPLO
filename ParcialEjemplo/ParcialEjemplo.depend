@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1556149338 source:c:\users\alumno\desktop\parcialejemplo\herramientas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Herramientas.h"
+
+1556145655 c:\users\alumno\desktop\parcialejemplo\herramientas.h
+
+1556153872 source:c:\users\alumno\desktop\parcialejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pantalla.h"
+
+1556150456 c:\users\alumno\desktop\parcialejemplo\pantalla.h
+
+1556150456 source:c:\users\alumno\desktop\parcialejemplo\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	"Pantalla.h"
+
+1556145515 source:c:\users\alumno\desktop\parcialejemplo\publicidad.c
+
